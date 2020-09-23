@@ -35,3 +35,6 @@ on a Core i5 8GB ram CPU
 
 ![alt text](https://github.com/jimohafeezco/GTRSB-Traffic-Sign/blob/master/result.png)
 
+## Improvement
+
+This work can be imporved by training with a trasnfer learning deep learning framework to acheive higher perfromace. But using a random forest classifier here shows what is possible with a simple machine learning model. The random forest classifier can also be improved with an ensemble model
